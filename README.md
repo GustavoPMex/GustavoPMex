@@ -7,11 +7,11 @@ My name is Gustavo Alonso Pacheco Mex, I'm 25 years old and I'm from Mexico. I'm
 I'm currently learning Backend Development with Python.
 
 I have knowledge of:
-- Django (including APIs)
+- Django: Including APIs
 - Structured programming and OOP
 - Javascript and Vue js
 - Html, Css and Bootstrap
-- BBDD with MySQL
+- BBDD: SQL like MySQL and PostgreSQL and NoSQL like Cloud Firestore.
 - Version Control with Git
 
 Also, I like to learn new things(no matter the topic) and new technologies, meet people and share my knowledge. 
