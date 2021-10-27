@@ -4,9 +4,19 @@
 ## Hello there!
 My name is Gustavo Alonso Pacheco Mex, I'm 25 years old and I'm from Mexico. I'm informatics engineer.
 
-I'm currently learning Backend Development with Python (Django). Also, I have knowledge of HTML, CSS, Bootstrap, Js, Vue Js, Git and BBDD. <em>I'm a beginner but I do my best every day. </em>
+I'm currently learning Backend Development with Python.
 
-I like to learn new things and new tecnologies, meet people and share my knowledge.
+I have knowledge of:
+- Django (including APIs)
+- Structured programming and OOP
+- Javascript and Vue js
+- Html, Css and Bootstrap
+- BBDD with MySQL
+- Version Control with Git
+
+Also, I like to learn new things(no matter the topic) and new tecnologies, meet people and share my knowledge. 
+
+### <em>I'm a beginner but I do my best every day. </em>
 
 ## Contact me 
 <p>
