@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1096822160495136773/1632009987/1500x500">
 
 ## Hello there!
-My name is Gustavo Alonso Pacheco Mex, I'm 25 years old and I'm from Mexico. I'm informatics engineer.
+My name is Gustavo Alonso Pacheco Mex, I'm 25 years old and I'm from Mexico. I'm informatics engineer. 
 
 I'm currently learning Backend Development with Python.
 
@@ -15,8 +15,6 @@ I have knowledge of:
 - Version Control with Git
 
 Also, I like to learn new things(no matter the topic) and new tecnologies, meet people and share my knowledge. 
-
-### <em>I'm a beginner but I do my best every day. </em>
 
 ## Contact me 
 <p>
