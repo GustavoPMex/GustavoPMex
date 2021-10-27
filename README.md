@@ -14,7 +14,7 @@ I have knowledge of:
 - BBDD with MySQL
 - Version Control with Git
 
-Also, I like to learn new things(no matter the topic) and new tecnologies, meet people and share my knowledge. 
+Also, I like to learn new things(no matter the topic) and new technologies, meet people and share my knowledge. 
 
 ## Contact me 
 <p>
