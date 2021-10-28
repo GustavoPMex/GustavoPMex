@@ -16,11 +16,14 @@ I have knowledge of:
 
 Also, I like to learn new things(no matter the topic) and new technologies, meet people and share my knowledge. 
 
+
 ## Contact me 
 <p>
 <a href="https://twitter.com/gustavopmex" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gustavopmex/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+Attached my codewars [profile](https://www.codewars.com/users/GustavoPMex). It's fun.
 
 
 <!--
