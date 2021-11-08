@@ -2,28 +2,23 @@
 <img src="https://pbs.twimg.com/profile_banners/1096822160495136773/1632009987/1500x500">
 
 ## Hello there!
-My name is Gustavo Alonso Pacheco Mex but you can call me "Gus", I'm 25 years old and I'm from Mexico. I'm informatics engineer. 
+Ingeniero en informática. Actualmente aprendiendo desarrollo backend con el lenguaje de programación Python. Practico lo que aprendo realizando proyectos para mi GitHub personal.
+Me apasiona encontrar soluciones óptimas a problemas que se puedan presentar e implementar y aprender nuevas tecnologías para mejorar la calidad de los proyectos.
+Entre mis conocimientos se incluyen:
+- Django: incluyendo APIs.
+- Programación estructurada y Programación Orientada a Objetos.
+- Base de datos: SQL (MySQL) y NoSQL (Cloud Firestore).
+- Control de versiones con Git.
+- JavaScript y Vue.js.
+- HTML, CSS y Bootstrap.
 
-I'm currently learning Backend Development with Python.
-
-I have knowledge of:
-- Django: Including APIs.
-- Structured programming and OOP.
-- Javascript and Vue js.
-- Html, Css and Bootstrap.
-- BBDD: SQL like MySQL and PostgreSQL and NoSQL like Cloud Firestore.
-- Version Control with Git.
-
-Also, I like to learn new things(no matter the topic) and new technologies, meet people and share my knowledge. 
-
-
-## Contact me 
+## Contactame
 <p>
 <a href="https://twitter.com/gustavopmex" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gustavopmex/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-Attached my codewars [profile](https://www.codewars.com/users/GustavoPMex). It's fun.
+Adjunto mi [perfil](https://www.codewars.com/users/GustavoPMex) de CodeWars. It's fun.
 
 
 <!--
