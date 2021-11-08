@@ -3,7 +3,9 @@
 
 ## Hello there!
 Ingeniero en informática. Actualmente aprendiendo desarrollo backend con el lenguaje de programación Python. Practico lo que aprendo realizando proyectos para mi GitHub personal.
+
 Me apasiona encontrar soluciones óptimas a problemas que se puedan presentar e implementar y aprender nuevas tecnologías para mejorar la calidad de los proyectos.
+
 Entre mis conocimientos se incluyen:
 - Django: incluyendo APIs.
 - Programación estructurada y Programación Orientada a Objetos.
