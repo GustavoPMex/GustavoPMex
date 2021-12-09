@@ -9,7 +9,7 @@ Me apasiona encontrar soluciones óptimas a problemas que se puedan presentar e 
 Entre mis conocimientos se incluyen:
 - Django: incluyendo APIs.
 - Programación estructurada y Programación Orientada a Objetos.
-- Base de datos: SQL (MySQL) y NoSQL (Cloud Firestore).
+- Base de datos: SQL (MySQL) y NoSQL (Firebase).
 - Control de versiones con Git.
 - JavaScript y Vue.js.
 - HTML, CSS y Bootstrap.
