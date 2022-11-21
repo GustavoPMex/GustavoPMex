@@ -1,5 +1,5 @@
 <h1 align='center'> Gustavo A. P. Mex </h1>
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQE9HyUBXhnobA/profile-displaybackgroundimage-shrink_350_1400/0/1668408597186?e=1674086400&v=beta&t=tVTtDN4EFzDkxLX8JY5ljbK-LD9FTMPY33mIL_Cqmbc">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGQzAm2yEHlKg/profile-displaybackgroundimage-shrink_350_1400/0/1668439965964?e=1674691200&v=beta&t=-zudFDfMD62ZFPP7dScpkGEhZNGODOgbP4DqtzrTdPg">
 
 ## Hello there!
 Ingeniero en informática. Actualmente aprendiendo desarrollo backend con el lenguaje de programación Python. Practico lo que aprendo realizando proyectos para mi GitHub personal.
