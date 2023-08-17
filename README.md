@@ -1,26 +1,27 @@
 <h1 align='center'> Gustavo A. P. Mex </h1>
-<img src="https://media.licdn.com/dms/image/C4E16AQGQzAm2yEHlKg/profile-displaybackgroundimage-shrink_350_1400/0/1668439965964?e=1681344000&v=beta&t=TA8sBqlKR2I2vNGtbiItxEt0HW3_OxVfUJYfNX_Y0E4">
 
-## Hello there!
-Ingeniero en informática. Actualmente aprendiendo desarrollo backend con el lenguaje de programación Python. Practico lo que aprendo realizando proyectos para mi GitHub personal.
+### 🐍 Hello there!
+Informatics Engineer. I have <strong>1.5+ years</strong> of professional experience, making projects in different frameworks and languages in both <strong>frontend and backend</strong>, I've been <strong>a backend team lead</strong> as well. 
 
-Me apasiona encontrar soluciones óptimas a problemas que se puedan presentar e implementar y aprender nuevas tecnologías para mejorar la calidad de los proyectos.
+I'm also using my knowledge to create projects for <strong>my personal GitHub</strong>.
 
-Entre mis conocimientos se incluyen:
-- Django: incluyendo APIs.
-- Programación estructurada y Programación Orientada a Objetos.
-- Base de datos: SQL (MySQL) y NoSQL (Firebase).
-- Control de versiones con Git.
-- JavaScript y Vue.js.
-- HTML, CSS y Bootstrap.
+I'm passionate about implementing and learning new technologies to improve the quality of projects. Continuously open to the idea of learning from others.
 
-## Contactame
+### ✅ My knowledge includes:
+- Django: <strong>including APIs</strong>.
+- Structured programming and Object-Oriented Programming (OOP).
+- Databases: <strong>SQL (MySQL) and NoSQL (Firebase)</strong>.
+- Version Control with Git.
+- JavaScript and Vue.js.
+- HTML, CSS, Bootstrap and Tailwind.
+- WordPress and PHP.
+
+### 🐉 Linkedin
 <p>
-<a href="https://twitter.com/gustavopmex" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gustavopmex/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-Adjunto mi [perfil](https://www.codewars.com/users/GustavoPMex) de CodeWars. It's fun.
+Btw, here is my CodeWars [profile](https://www.codewars.com/users/GustavoPMex). It's fun.
 
 
 <!--
