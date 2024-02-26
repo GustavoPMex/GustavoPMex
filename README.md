@@ -1,7 +1,7 @@
 <h1 align='center'> Gustavo A. P. Mex </h1>
 
 ### 🐍 Hello there!
-Informatics Engineer. I have <strong>1.5+ years</strong> of professional experience, making projects in different languages and frameworks in both <strong>frontend and backend</strong>, I've been <strong>a backend team lead</strong> as well. I've been creating projects in <strong>my personal GitHub</strong> to improve my knowledge.
+Informatics Engineer. I have <strong>2+ years</strong> of professional experience, making projects in different languages and frameworks in both <strong>frontend and backend</strong>, I've been <strong>a backend team lead</strong> as well. I've been creating projects in <strong>my personal GitHub</strong> to improve my knowledge.
 
 I'm passionate about implementing and learning new technologies to improve the quality of projects. Continuously open to the idea of learning from others.
 
